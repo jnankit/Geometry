@@ -4,5 +4,6 @@ public class Point1 {
         Square P2 = new Square(3,4);
 
         P1.getDist(P2);
+        System.out.println(P1.getDist1(P2));
     }
 }
