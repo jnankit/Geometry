@@ -11,4 +11,12 @@ public class Square {
         double dist = Math.sqrt(dx*dx+dy*dy);
         System.out.println(dist);
     }
+
+    public double getDist1(Square P){
+        int dx = x-P.x;
+        int dy = y-P.y;
+        double dist = Math.abs(dx-dy);
+        return dist;
+    }
 }
+
