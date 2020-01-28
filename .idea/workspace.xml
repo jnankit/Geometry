@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="578478a5-05b1-4e2d-a6d1-d094dfdfbf39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5703106687d1996f5538a7d062b5c426ea289cc5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5703106687d1996f5538a7d062b5c426ea289cc5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2ce68f255050f73e00128487b6882969f84ad17" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2ce68f255050f73e00128487b6882969f84ad17" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello/Point1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello/Point1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Hello/Square.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Point1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -114,37 +109,57 @@
       <option name="presentableId" value="Default" />
       <updated>1579773149397</updated>
     </task>
+    <task id="LOCAL-00001" summary="at 21/01/3:04">
+      <created>1580204107529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580204107529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="at 21/01/3:04" />
+    <option name="LAST_COMMIT_MESSAGE" value="at 21/01/3:04" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="0" key="#Project3" timestamp="1580195217794">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="360" y="0" key="#Project3/0.0.1280.680@0.0.1280.680" timestamp="1580195217794" />
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580204104878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580204104878" />
     <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1580195276230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580195276230" />
-    <state width="1237" height="112" key="GridCell.Tab.0.bottom" timestamp="1580203968965">
+    <state width="1237" height="112" key="GridCell.Tab.0.bottom" timestamp="1580208854184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580203968965" />
-    <state width="1237" height="112" key="GridCell.Tab.0.center" timestamp="1580203968965">
+    <state width="1237" height="112" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
+    <state width="1237" height="112" key="GridCell.Tab.0.center" timestamp="1580208854184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580203968965" />
-    <state width="1237" height="112" key="GridCell.Tab.0.left" timestamp="1580203968964">
+    <state width="1237" height="112" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
+    <state width="1237" height="112" key="GridCell.Tab.0.left" timestamp="1580208854184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580203968964" />
-    <state width="1237" height="112" key="GridCell.Tab.0.right" timestamp="1580203968965">
+    <state width="1237" height="112" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
+    <state width="1237" height="112" key="GridCell.Tab.0.right" timestamp="1580208854184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580203968965" />
+    <state width="1237" height="112" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1580194390630">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580194390630" />
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1580204117329">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580204117329" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580188475411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

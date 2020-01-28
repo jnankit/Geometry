@@ -3,7 +3,7 @@ import java.util.*;
 public class Point1 {
 
     static double getperimeter(Point[] array , int n){
-        double peri=0;
+        double peri=array[0].getDist(array[n-1]);
         for(int i=0;i<n-1;i++){
             peri = peri + array[i+1].getDist(array[i]);
         }
