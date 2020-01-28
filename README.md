@@ -1,5 +1,5 @@
 # Geometry
-Point and Square
+Point and Point
 
 My first project
 New one

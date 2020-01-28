@@ -1,9 +1,41 @@
-public class Point1 {
-    public static void main(String[] args) {
-        Square P1 = new Square(2,3);
-        Square P2 = new Square(3,4);
+import java.util.*;
 
-        P1.getDist(P2);
-        System.out.println(P1.getDist1(P2));
+public class Point1 {
+
+    static double getperimeter(Point[] array , int n){
+        double peri=0;
+        for(int i=0;i<n-1;i++){
+            peri = peri + array[i+1].getDist(array[i]);
+        }
+        return peri;
+    }
+
+    public static void main(String[] args) {
+        int n;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter number of points ");
+        n= sc.nextInt();
+
+
+        Point[] array = new Point[n];
+        for(int i=0;i<n;i++){
+            System.out.println("Enter Coordinates of " + (i+1) + "th point");
+            int ax = sc.nextInt();
+            int ay = sc.nextInt();
+            array[i] = new Point(ax,ay);
+        }
+
+        //array[1].set_co(56,87);
+
+        for(int i=0;i<n;i++){
+            System.out.println(array[i].get_x() + "," + array[i].get_y());
+        }
+        System.out.println("Perimeter is " + getperimeter(array,n));
+
+        Point p = new Point(0,0);
+        Point q = new Point(3,0);
+        double re = p.getDist(q);
+        System.out.println(re);
+
     }
 }

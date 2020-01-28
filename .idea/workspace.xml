@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="578478a5-05b1-4e2d-a6d1-d094dfdfbf39" name="Default Changelist" comment="" />
+    <list default="true" id="578478a5-05b1-4e2d-a6d1-d094dfdfbf39" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5703106687d1996f5538a7d062b5c426ea289cc5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5703106687d1996f5538a7d062b5c426ea289cc5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2ce68f255050f73e00128487b6882969f84ad17" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2ce68f255050f73e00128487b6882969f84ad17" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello/Point1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hello/Point1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hello/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,15 +34,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/onlinebookstore-gh-pages/OnlineBookStore/servlets/AddBookServlet.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.Point1">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Helloworld" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,9 +69,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Project3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project.Project3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Point1" />
+        <item itemvalue="Application.Project3" />
+        <item itemvalue="Application.Helloworld" />
         <item itemvalue="Application.Helloworld1" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -87,37 +117,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1579857385531">
+    <state x="360" y="0" key="#Project3" timestamp="1580195217794">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579857385531" />
-    <state width="1237" height="135" key="GridCell.Tab.0.bottom" timestamp="1579839868910">
+    <state x="360" y="0" key="#Project3/0.0.1280.680@0.0.1280.680" timestamp="1580195217794" />
+    <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1580195276230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579839868910" />
-    <state width="1237" height="135" key="GridCell.Tab.0.center" timestamp="1579839868910">
+    <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580195276230" />
+    <state width="1237" height="112" key="GridCell.Tab.0.bottom" timestamp="1580203968965">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579839868910" />
-    <state width="1237" height="135" key="GridCell.Tab.0.left" timestamp="1579839868910">
+    <state width="1237" height="112" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580203968965" />
+    <state width="1237" height="112" key="GridCell.Tab.0.center" timestamp="1580203968965">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579839868910" />
-    <state width="1237" height="135" key="GridCell.Tab.0.right" timestamp="1579839868910">
+    <state width="1237" height="112" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580203968965" />
+    <state width="1237" height="112" key="GridCell.Tab.0.left" timestamp="1580203968964">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="135" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579839868910" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1579775169527">
+    <state width="1237" height="112" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580203968964" />
+    <state width="1237" height="112" key="GridCell.Tab.0.right" timestamp="1580203968965">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1579775169527" />
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580113215479">
+    <state width="1237" height="112" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580203968965" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1580194390630">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580113215479" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580194390630" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580188475411">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580188475411" />
     <state x="91" y="0" key="new project wizard" timestamp="1579839863338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1579839863338" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Geometry$Project3.ic" NAME="Project3 Coverage Results" MODIFIED="1580195219247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>project.*</FILTER>
+    </SUITE>
   </component>
 </project>
