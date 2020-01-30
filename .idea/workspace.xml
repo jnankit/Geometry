@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="578478a5-05b1-4e2d-a6d1-d094dfdfbf39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +34,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Point1">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+  <component name="RunManager" selected="Application.dogtest">
+    <configuration name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeerSong" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -45,13 +44,6 @@
     </configuration>
     <configuration name="Helloworld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Helloworld" />
-      <module name="Hello" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Helloworld1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Helloworld1" />
       <module name="Hello" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dogtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dogtest" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dogtest" />
+        <item itemvalue="Application.BeerSong" />
         <item itemvalue="Application.Point1" />
         <item itemvalue="Application.Project3" />
         <item itemvalue="Application.Helloworld" />
-        <item itemvalue="Application.Helloworld1" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -116,50 +115,62 @@
       <option name="project" value="LOCAL" />
       <updated>1580204107529</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="at 21/01/4:24">
+      <created>1580208889908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580208889908</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="at 21/01/3:04" />
-    <option name="LAST_COMMIT_MESSAGE" value="at 21/01/3:04" />
+    <MESSAGE value="at 21/01/4:24" />
+    <option name="LAST_COMMIT_MESSAGE" value="at 21/01/4:24" />
   </component>
   <component name="WindowStateProjectService">
     <state x="360" y="0" key="#Project3" timestamp="1580195217794">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="360" y="0" key="#Project3/0.0.1280.680@0.0.1280.680" timestamp="1580195217794" />
-    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580204104878">
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580361229081">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580204104878" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580361229081" />
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1580208888664">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1580208888664" />
     <state x="421" y="59" key="FileChooserDialogImpl" timestamp="1580195276230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="59" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580195276230" />
-    <state width="1237" height="112" key="GridCell.Tab.0.bottom" timestamp="1580208854184">
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom" timestamp="1580360203533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
-    <state width="1237" height="112" key="GridCell.Tab.0.center" timestamp="1580208854184">
+    <state width="1237" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580360203533" />
+    <state width="1237" height="195" key="GridCell.Tab.0.center" timestamp="1580360203533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
-    <state width="1237" height="112" key="GridCell.Tab.0.left" timestamp="1580208854184">
+    <state width="1237" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580360203533" />
+    <state width="1237" height="195" key="GridCell.Tab.0.left" timestamp="1580360203533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
-    <state width="1237" height="112" key="GridCell.Tab.0.right" timestamp="1580208854184">
+    <state width="1237" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580360203533" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right" timestamp="1580360203533">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="112" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580208854184" />
+    <state width="1237" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580360203533" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1580194390630">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580194390630" />
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1580204117329">
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2" timestamp="1580208894159">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580204117329" />
+    <state x="233" y="75" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1580208894159" />
     <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1580188475411">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
